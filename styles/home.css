@@ -1,0 +1,30 @@
+.tituloCapa{ color:#588526; padding:0 0 0 0; margin:0px !important;}
+
+.subtituloCapa{ 
+	color:#F00 !important; 
+	padding:40px 0 0 0 !important; 
+	font-size:15px !important; 
+	margin:0 0 8px 0 !important
+}
+.nomeCursoCapa{
+	font:normal 20px Arial, Helvetica, sans-serif !important;
+    color: #588526;
+	margin:50px 0 0 0;
+}
+.cor-vermelho{
+	color:#F00 !important;
+}
+.valorCursoCapa{}
+.listaCapa{}
+.listaCapa li{
+	margin: 20px 0 0 0;
+}
+
+.linkCurso{
+	font-size: 20px !important; 
+	line-height:normal !important; 
+	margin: 0 0 10px !important; 
+	display:block;
+	color: #588526 !important;
+	text-decoration:underline !important;
+}
